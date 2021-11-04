@@ -15,10 +15,39 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
+## Demo Video
+
+The following video shows the full functionality of the team profile. Click the link below:
+
+
+
+## Screenshots
+
+
+
 ## Installation 
+
+Run npm install to install application dependencies (express, sequelize, mysql, and dotenv).
+
+Create .env file to add password privacy.
 
 ## Usage 
 
+To run locally, use MYSQL to create the database from the schema folder, and from the command line, run npm run seed. Afterwards, run node server.js.
+
+Insomnia will be used to test routes on on http//:localhost:3001/.
+
+## Technology Utilized 
+
+In this application, I utilized npm (to include the dependencies), .env, Express, Node, MySQL, Insomnia, and JavaScript.
+
+## Test
+
+There are no tests to run.
+
+## License 
+
+License is MIT standard license. 
 
 ## Contribution
 
