@@ -19,6 +19,8 @@ SO THAT my company can compete with other e-commerce companies
 
 The following video shows the full functionality of the team profile. Click the link below:
 
+https://watch.screencastify.com/v/VWWlAjl5OZWC5UjjEAWx
+
 
 
 ## Screenshots
