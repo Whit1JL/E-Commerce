@@ -24,7 +24,9 @@ https://watch.screencastify.com/v/VWWlAjl5OZWC5UjjEAWx
 
 
 ## Screenshots
-
+![Screenshot (117)](https://user-images.githubusercontent.com/82970208/141648814-e9c18893-62aa-450b-b57a-5741d8d6b572.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/82970208/141648820-99711391-fb5f-4282-8f30-4787df63f741.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/82970208/141648824-9ab625d7-feef-4c98-9fb7-3bfea2ddfc65.png)
 
 
 ## Installation 
